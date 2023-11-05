@@ -1,0 +1,2 @@
+Sample	Picard_mqc-generalstats-picard-PCT_PF_READS_ALIGNED	Picard_mqc-generalstats-picard-summed_median	Picard_mqc-generalstats-picard-summed_mean
+SLGFSK-T_231336_sorted_dedup_bqsr_reads	0.999663	150	161.052983
